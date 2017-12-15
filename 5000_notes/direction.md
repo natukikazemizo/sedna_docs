@@ -1,3 +1,0 @@
-# 演出 direction
-
-* 
